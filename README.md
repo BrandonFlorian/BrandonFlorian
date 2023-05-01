@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BrandonFlorian/assets/blob/main/link.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/BrandonFlorian/assets/blob/main/link.gif">
-  <img alt="Link" src="https://github.com/BrandonFlorian/assets/blob/main/link.gif" style={{height: "100px", width: "100px"}}>
+  <img alt="Link" src="https://github.com/BrandonFlorian/assets/blob/main/link.gif">
 </picture>
 
 <!--
