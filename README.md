@@ -1,4 +1,9 @@
 ### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BrandonFlorian/assets/blob/main/link.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/BrandonFlorian/assets/blob/main/link.gif">
+  <img alt="Link" src="https://github.com/BrandonFlorian/assets/blob/main/link.gif">
+</picture>
 
 <!--
 **BrandonFlorian/BrandonFlorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
