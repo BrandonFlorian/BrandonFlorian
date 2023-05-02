@@ -1,8 +1,8 @@
 ### Hi there 👋
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BrandonFlorian/assets/blob/main/link.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/BrandonFlorian/assets/blob/main/link.gif">
-  <img alt="Link" src="https://github.com/BrandonFlorian/assets/blob/main/link.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BrandonFlorian/assets/blob/main/zero-slash.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/BrandonFlorian/assets/blob/main/zero-slash.gif">
+  <img alt="Link" src="https://github.com/BrandonFlorian/assets/blob/main/zero-slash.gif">
 </picture>
 
 <!--
