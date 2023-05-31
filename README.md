@@ -20,5 +20,5 @@ I'm a software developer with a passion for web development, artificial intellig
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)
 
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonFlorian&show_icons=true&theme=radical)
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonFlorian&show_icons=true&theme=radical&rank_icon=github)
 
