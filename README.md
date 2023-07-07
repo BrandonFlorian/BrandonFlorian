@@ -22,4 +22,4 @@ I'm a software developer with a passion for web development, artificial intellig
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonFlorian&show_icons=true&theme=transparent&rank_icon=github)
 
-* does not take into account the work done in forks, organizations, or private repos.
+Note: This does not take into account the work done in organizations or private repos.
